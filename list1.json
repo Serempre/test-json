@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "User 1",
+        "kpi": {
+            "speed": 4,
+            "level": 0
+        }
+    },
+    {
+        "id": 2,
+        "name": "User 2",
+        "kpi": {
+            "speed": 6,
+            "level": 8
+        }
+    },
+    {
+        "id": 3,
+        "name": "User 3",
+        "kpi": {
+            "speed": 9,
+            "level": 1
+        }
+    },
+    {
+        "id": 4,
+        "name": "User 4",
+        "kpi": {
+            "speed": 2,
+            "level": 2
+        }
+    },
+    {
+        "id": 5,
+        "name": "User 5",
+        "kpi": {
+            "speed": 7,
+            "level": 5
+        }
+    }
+]
