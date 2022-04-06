@@ -38,5 +38,45 @@
             "speed": 7,
             "level": 5
         }
+    },
+    {
+        "id": 6,
+        "name": "User 6",
+        "kpi": {
+            "speed": 7,
+            "level": 5
+        }
+    },
+    {
+        "id": 7,
+        "name": "User 7",
+        "kpi": {
+            "speed": 2,
+            "level": 5
+        }
+    },
+    {
+        "id": 8,
+        "name": "User 8",
+        "kpi": {
+            "speed": 2,
+            "level": 5
+        }
+    },
+    {
+        "id": 9,
+        "name": "User 9",
+        "kpi": {
+            "speed": 3,
+            "level": 5
+        }
+    },
+    {
+        "id": 10,
+        "name": "User 10",
+        "kpi": {
+            "speed": 9,
+            "level": 5
+        }
     }
 ]
